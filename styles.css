@@ -1,7 +1,7 @@
 body {
   margin: 8px;
   display: block;
-  background-color: rgba(4, 3, 1, 0.792);
+  background-color: brown;
 }
 p {
     margin-top: 100px;
@@ -23,8 +23,6 @@ p {
     text-align: center;
   }
   p {
-    background-color: rgb(11, 50, 141);
+    background-color:white;
   }
-  #Day1  {
-    background-color: rgb(129, 127, 212);
-  }
+  
