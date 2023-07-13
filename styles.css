@@ -11,17 +11,21 @@ p {
   }
   
   .funParagraph {
-    color:green;
+    color: green;
   }
   #mainHeading {
-    color:red
+    color:red;
   }
-  .Firstday {
-    font-family: sans-serif;
-    font-size: 20px;
-    font-weight: bold;
-    text-align: center;
-  }
+  
+  img {
+    opacity: 1;
+   display:block;
+   max-width:400px;
+   max-height:400px;
+   width:auto;
+   height:auto;
+   
+ }
   p {
     background-color:white;
   }
