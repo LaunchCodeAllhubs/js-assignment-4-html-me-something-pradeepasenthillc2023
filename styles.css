@@ -10,12 +10,12 @@ p {
     margin-left: 80px;
   }
   
-  #testP {
-    color: green;
-  }
-
   #mainHeading {
     color:red;
+  }
+
+  #testP {
+    color:green;
   }
   
   img {
