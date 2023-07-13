@@ -10,8 +10,11 @@ p {
     padding-bottom: 50px;
     padding-left: 80px;
   }
+  .funParagraph {
+    color:green;
+  }
   .Firstday {
-    font-family: 'Nunito', sans-serif;
+    font-family: sans-serif;
     font-size: 20px;
     font-weight: bold;
     text-align: center;
